@@ -1,4 +1,16 @@
-## Hi there 👋
+## Bem vindo ao meu perfil 💜
+
+Meu nome é Júlia Câmara Rocha
+
+Sou estudante do Ensino Médio no Eduardo Velho Filho
+
+Estou em um projeto com minha turma de Itinerário de Exatas
+
+Utilizo esse espaço para compartilhamento dos meus projetos
+
+## Você pode entrar em contato comigo
+
+00001088822678sp@al.educacao.sp.gov.br
 
 <!--
 **JULIAROC3S2024/JULIAROC3S2024** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
