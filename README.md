@@ -8,7 +8,7 @@ Estou em um projeto com minha turma de Itinerário de Exatas
 
 Utilizo esse espaço para compartilhamento dos meus projetos
 
-## Você pode entrar em contato comigo
+## Você pode entrar em contato comigo 📫
 
 00001088822678sp@al.educacao.sp.gov.br
 
